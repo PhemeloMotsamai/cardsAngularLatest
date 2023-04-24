@@ -8,6 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'cards';
 
+  //posts array
   posts = [
     {
       title: 'Neat Tree',
