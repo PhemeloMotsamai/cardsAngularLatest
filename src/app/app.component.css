@@ -1,5 +1,8 @@
-.card {
-  width: 350px;
+:host{
+  display:flex;
+  justify-content:space-evenly;
+  flex-wrap: wrap;
 }
+
 
 

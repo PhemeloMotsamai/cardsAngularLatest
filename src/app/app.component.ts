@@ -14,7 +14,7 @@ export class AppComponent {
       title: 'Neat Tree',
       imageUrl: 'assets/tree.jpeg',
       username: 'nature',
-      content: 'I saw this tree today'
+      content: 'I saw this tree today Lorem pellentesque vel, ullamcorper'
 
     },
     {
@@ -29,6 +29,13 @@ export class AppComponent {
       imageUrl: 'assets/biking.jpeg',
       username: 'bikini122222',
       content: 'Pellentesque sit amet lorem quis quam bibendum vulputate. Ut rutrum risus nunc'
+
+    },
+    {
+      title: 'Neat Tree',
+      imageUrl: 'assets/tree.jpeg',
+      username: 'nature',
+      content: 'I saw this tree today Lorem pellentesque vel, ullamcorper'
 
     }
   ];
